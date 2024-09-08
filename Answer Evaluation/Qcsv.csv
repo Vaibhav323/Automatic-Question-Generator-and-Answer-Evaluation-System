@@ -1,0 +1,6 @@
+"Question","Answer"
+"Define MILEAGE.","There may be many cars with different names and brands but all of them will share some common properties like all of them will have 4 wheels, Speed Limit, Mileage range, etc."
+"Define OBJECT.","For example “Dog” is a real-life Object, which has some characteristics like color, Breed, Bark, Sleep, and Eats."
+"Explain in detail SPEED LIMIT.","There may be many cars with different names and brands but all of them will share some common properties like all of them will have 4 wheels, Speed Limit, Mileage range, etc."
+"What do you mean by INSTANCE OF THAT CLASS.","It consists of data members and member functions, which can be accessed and used by creating an instance of that class."
+"Write a short note on ACCESS THIS DATA.","The main aim of OOP is to bind together the data and the functions that operate on them so that no other part of the code can access this data except that function."
