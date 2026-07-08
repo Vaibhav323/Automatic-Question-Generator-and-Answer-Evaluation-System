@@ -49,8 +49,8 @@ The **Automatic Question Generator and Descriptive Answer Evaluation System** is
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/automatic-question-evaluation-system.git
-cd automatic-question-evaluation-system
+https://github.com/Vaibhav323/Automatic-Question-Generator-and-Answer-Evaluation-System
+cd "Answer Evaluation"
 ```   
 2. Install dependencies:
 ```bash
